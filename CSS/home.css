@@ -1,0 +1,50 @@
+body{
+    background-image: url("KnightProgrammingBanner.gif");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: 80% 0%;
+    background-color:black;
+    color:#a99070;
+}
+.header {
+    margin: -1em 0 0 10%;
+    padding: 0 0 0 0;
+    
+}
+p.MidEvial{
+    font-family: "Penna",cursive;
+    font-size: 6vw;
+}
+.wrapper{
+    margin: -5em 0 0 13%;
+}
+.rightTop{
+    display: inline-block;
+    width:20%;
+    height: 10em;
+    background-color: #a99070;
+    margin: 2% 2% 0 0;
+    border-style: groove;
+    
+}
+.leftTop{
+    display: inline-block;
+    width:20%;
+    height: 10em;
+    background-color: #a99070;
+    margin: 2% 2% 0 0;
+}
+.leftBot{
+    display: inline-block;
+    width:20%;
+    height: 10em;
+    background-color: #a99070;
+    margin: 2% 2% 0 0;
+}
+.rightBot{
+    display: inline-block;
+    width:20%;
+    height: 10em;
+    background-color: #a99070;
+    margin: 2% 2% 0 0;
+}
